@@ -1,6 +1,13 @@
 **Erhalt des Schwerpunktfachs «Wirtschaft & Recht» an Zürcher
 Gymnasien**
 
+<div class="social-share">
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://pro-sp-wr.github.io/argumentarium/" target="_blank" class="linkedin-button">
+        <i class="fab fa-linkedin"></i> Auf LinkedIn teilen
+    </a>
+</div>
+
+
 **Wir fordern:**
 
 Den Erhalt des gymnasialen Schwerpunktfachs *Wirtschaft & Recht (W&R)*
