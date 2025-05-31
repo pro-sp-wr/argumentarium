@@ -1,5 +1,4 @@
-**Erhalt des Schwerpunktfachs «Wirtschaft & Recht» an Zürcher
-Gymnasien**
+## Erhalt des Schwerpunktfachs «Wirtschaft & Recht» an Zürcher Gymnasien
 
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://ihre-github-pages-url.com"></script>
