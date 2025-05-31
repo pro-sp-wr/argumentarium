@@ -1,7 +1,19 @@
 ## Erhalt des Schwerpunktfachs «Wirtschaft & Recht» an Zürcher Gymnasien
 
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="https://ihre-github-pages-url.com"></script>
+<script type="IN/Share" data-url="https://pro-sp-wr.github.io/argumentarium/"></script>
+
+<!-- X (Twitter) JavaScript SDK -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- X Share Button -->
+<a href="https://twitter.com/share" 
+   class="twitter-share-button" 
+   data-url="https://pro-sp-wr.github.io/argumentarium/"
+   data-show-count="false">
+Tweet
+</a>
+
 
 
 
