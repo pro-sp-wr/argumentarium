@@ -1,0 +1,9 @@
+# _config.yml
+theme: minima
+minima:
+  skin: solarized  # oder solarized-dark für die dunkle Variante
+plugins:
+- jekyll-remote-theme
+title: Argumentarium für den Erhalt des Schwerpunktfahchs Wirtschaft und
+Recht
+author: IG Wirtschaft und Recht
