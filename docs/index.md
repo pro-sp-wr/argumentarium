@@ -1,21 +1,39 @@
 ***Erhalt des Schwerpunktfachs «Wirtschaft & Recht» an Zürcher Gymnasien***
 
-<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" 
-    data-url="https://pro-sp-wr.github.io/argumentarium/"
-    data-text="Teilen Sie unsere Argumente auf LinkedIn"></script>
-
-<!-- X (Twitter) JavaScript SDK -->
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!-- X Share Button -->
-<a href="https://twitter.com/share" 
-   class="twitter-share-button" 
-   data-url="https://pro-sp-wr.github.io/argumentarium/"
-   data-text="Teilen Sie unsere Argumente auf X"
-   data-show-count="false">
-Tweet
-</a>
+<table>
+<tbody>
+<tr>
+<td>&nbsp;Teilen Sie unsere Argumente auf LinkedIn</td>
+<td>&nbsp;
+<div>
+<div>&lt;script src="https://platform.linkedin.com/in.js" type="text/javascript"&gt;lang: en_US&lt;/script&gt;</div>
+<div>&lt;scripttype="IN/Share"</div>
+<div>&nbsp; &nbsp; data-url="https://pro-sp-wr.github.io/argumentarium/"</div>
+<div>&nbsp; &nbsp; data-text="Teilen Sie unsere Argumente auf LinkedIn"&gt;&lt;/script&gt;</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>&nbsp;Teilen Sie unsere Argumente auf X</td>
+<td>&nbsp;
+<div>
+<div>&lt;!-- X (Twitter) JavaScript SDK --&gt;</div>
+<div>&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;</div>
+<br />
+<div>&lt;!-- X Share Button --&gt;</div>
+<div>&lt;ahref="https://twitter.com/share"</div>
+<div>&nbsp; &nbsp;class="twitter-share-button"</div>
+<div>&nbsp; &nbsp;data-url="https://pro-sp-wr.github.io/argumentarium/"</div>
+<div>&nbsp; &nbsp;data-text="Teilen Sie unsere Argumente auf X"</div>
+<div>&nbsp; &nbsp;data-show-count="false"&gt;</div>
+<div>Tweet</div>
+<div>&lt;/a&gt;</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com -->
 
 
 
