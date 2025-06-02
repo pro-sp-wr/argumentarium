@@ -2,7 +2,7 @@
 
 <table class="share-table">
   <tr>
-    <td class="share-label">Teile mit LinkedIn</td>
+    <td class="share-label">Teilen Sie unsere Argumente mit LinkedIn</td>
     <td class="share-button-cell">
       <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
       <script type="IN/Share" 
@@ -12,7 +12,7 @@
     </td>
   </tr>
   <tr>
-    <td class="share-label">Teile mit X</td>
+    <td class="share-label">Teilen Sie unsere Argumente mit X</td>
     <td class="share-button-cell">
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       <a href="https://twitter.com/share" 
@@ -48,3 +48,6 @@ verwässert werden.
 
 
 Zürich, 25. Mai 2025
+
+Wenn Sie unsere Argumente mit Ihrem Namen unterstützen möchten,
+[können Sie sich hier eintragen](https://docs.google.com/forms/d/e/1FAIpQLSfby13oOiq1twQGEOr57xkhcgRMpltaLOzPQGbEYOYtAdG5Pw/viewform?usp=header).
