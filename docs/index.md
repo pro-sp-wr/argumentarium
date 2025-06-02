@@ -49,14 +49,18 @@ verwässert werden.
 
 Zürich, 25. Mai 2025
 
-Wenn Sie unsere Argumente mit Ihrem Namen unterstützen möchten,
-[können Sie sich hier
-eintragen](https://docs.google.com/forms/d/e/1FAIpQLSfby13oOiq1twQGEOr57xkhcgRMpltaLOzPQGbEYOYtAdG5Pw/viewform?usp=header).
+
+
+**Unterstützerinnen und Unterstützer:**
 
 | Name | Ort | Funktion |
 | :--- | :--- | :--- |
 | Vreni Beispiel | Zürich | Lehrperson |
 | Max Muster | Zürich | Lehrperson |
+
+Wenn Sie unsere Argumente auch mit Ihrem Namen unterstützen möchten,
+[können Sie sich hier
+eintragen](https://docs.google.com/forms/d/e/1FAIpQLSfby13oOiq1twQGEOr57xkhcgRMpltaLOzPQGbEYOYtAdG5Pw/viewform?usp=header).
 
 **Kontakt**
 
