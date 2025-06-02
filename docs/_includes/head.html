@@ -1,1 +1,3 @@
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+{% if page.css %}
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+{% endif %}
