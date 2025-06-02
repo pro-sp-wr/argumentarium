@@ -1,0 +1,15 @@
+.share-table {
+    border-collapse: separate;
+    border-spacing: 0 15px;  /* Horizontaler und vertikaler Abstand zwischen Zeilen */
+    margin: 20px 0;         /* Abstand oben und unten von der Tabelle */
+}
+
+.share-label {
+    padding-right: 20px;    /* Abstand zwischen Text und Button */
+    font-weight: bold;      /* Text fett darstellen */
+    vertical-align: middle; /* Vertikale Zentrierung */
+}
+
+.share-button-cell {
+    vertical-align: middle; /* Vertikale Zentrierung */
+}
