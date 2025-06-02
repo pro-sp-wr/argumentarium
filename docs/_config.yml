@@ -2,7 +2,5 @@
 theme: minima
 minima:
   skin: solarized  # oder solarized-dark für die dunkle Variante
-plugins:
-  - jekyll-remote-theme
 title: Argumentarium
 author: IG Wirtschaft und Recht
