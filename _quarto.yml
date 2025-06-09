@@ -49,6 +49,9 @@ format:
     css: styles.css
     toc: false
   pdf:
+    pdf-engine: xelatex
+    mainfont: Arial
+    fontsize: 11pt
     documentclass: article
     toc: false
 
