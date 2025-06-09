@@ -3,12 +3,31 @@ project:
   output-dir: docs
 
 website:
-  title: "250609"
+  title: "Argumentarium"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: "bi-twitter-x" # Oder ein anderes passendes Icon aus Bootstrap Icons
+        href: "javascript:window.open('https://twitter.com/intent/tweet?text=Interessante%20Informationen%20von%20der%20IG%20Wirtschaft%20und%20Recht&url=' + encodeURIComponent(window.location.href));"
+        aria-label: "Auf X teilen" # Für Barrierefreiheit
+      - icon: "bi-linkedin" # Bootstrap Icon für LinkedIn
+        href: "https://www.linkedin.com/shareArticle?mini=true&url=https://pro-sp-wr.github.io/argumentarium/&title=Argumentarium%20IG%20Wirtschaft%20und%20Recht"
+        aria-label: "Auf LinkedIn teilen" # Für Barrierefreiheit   
+      - icon: "bi-whatsapp" # Bootstrap Icon für WhatsApp
+        href: "javascript:window.open('https://wa.me/?text=' + encodeURIComponent('Interessante Informationen von der IG Wirtschaft und Recht: ' + window.location.href));"
+        aria-label: "Auf WhatsApp teilen"   
+      - icon: "bi-facebook" # Bootstrap Icon für Facebook
+        href: "javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href));"
+        aria-label: "Auf Facebook teilen"
+      - icon: "bi-reddit" # Bootstrap Icon für Reddit (falls vorhanden, ansonsten prüfen)
+        href: "javascript:window.open('https://www.reddit.com/submit?url=' + encodeURIComponent(window.location.href) + '&title=' + encodeURIComponent(document.title));"
+        aria-label: "Auf Reddit teilen"
+      - icon: "bi-mastodon" # Annahme für Bootstrap Icon
+        href: "javascript:window.open('https://toot.io/?text=' + encodeURIComponent('Interessante Informationen von der IG Wirtschaft und Recht: ' + window.location.href));"
+        aria-label: "Auf Mastodon teilen"
 
 format:
   html:
