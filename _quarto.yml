@@ -6,6 +6,16 @@ website:
   title: "Argumentarium"
   navbar:
     left:
+      - text: "Weitere Informationen"
+        menu:
+          - text: "Über uns"
+            href: about.qmd
+          - text: "Vollständiges Argumentarium"
+            href: ./argumente.qmd
+          - text: "Kontakt"
+            href: "https://forms.gle/Xa843z8yKTtiy4eB8"
+          - text: "Unterstützen"
+            href: "https://forms.gle/Qii7X7os3id8N1qK8"
       - href: index.qmd
         text: Home
       - about.qmd
