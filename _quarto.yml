@@ -53,6 +53,7 @@ format:
     mainfont: Arial
     fontsize: 11pt
     documentclass: article
+    classoption: a4paper
     toc: false
 
 
