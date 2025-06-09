@@ -51,7 +51,7 @@ format:
   pdf:
     pdf-engine: xelatex
     mainfont: Arial
-    fontsize: 11pt
+    fontsize: 10pt
     documentclass: article
     classoption: a4paper
     toc: false
