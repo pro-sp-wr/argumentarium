@@ -133,3 +133,6 @@ Wir fordern deshalb:
 * Den Erhalt von Gymnasien, die sich als kleine Spezialitätenschulen mit
   Ausrichtung Wirtschaft & Recht im Kanton Zürich etabliert und
   profiliert haben. 
+
+
+[Download als PDF](meine_unterseite.pdf){.btn .btn-primary}
