@@ -5,18 +5,22 @@ title: "Rettet das Schwerpunktfach Wirtschaft und Recht"
 ***Der Kanton Zürich will an seinen Gymnasien das Schwerpunktfach
 Wirtschaft und Recht abschaffen.***
 
-## Folgen der Abschaffung des Schwerpunktfachs Wirtschaft und Recht
+*Das bisherige Schwerpunktfach Wirtschaft und Recht soll durch die
+Schwerpunktfächer 
+"Nachhaltige Gesellschaft" 
+und 
+"Politik, Recht und Wirtschaft" ersetzt werden.* 
 
-Anstelle des bisherigen Schwerpunktfachs Wirtschaft und Recht sollen neu
-die Schwerpunktfächer *Nachhaltige Gesellschaft* und *Politik, Recht und
-Wirtschaft* treten.
+## Folgen der Abschaffung des Schwerpunktfachs Wirtschaft und Recht
 
 Im bisherigen Schwerpunktfach Wirtschaft und Recht wird
 Betriebswirtschaftslehre, Finanz- und Rechnungswesen,
 Volkswirtschaftslehre sowie Recht unterrichtet. In der neuen
 Ausgestaltung müsste auf Finanz- und Rechnungswesen sowie auf erhebliche
-Teile der Betriebswirtschaftslehre verzichtet werden. Im Recht müsste
-beispielsweise auf Miet- und Arbeitsrecht verzichtet werden.
+Teile der Betriebswirtschaftslehre verzichtet werden. 
+Auch im Recht müssten Abstriche gemacht werden. So könnte es die
+Abstimmung mit den "Partnerfächern" sinnvoll erscheinen lassen, auf
+eine Behandlung des Miet- und Arbeitsrechts zu verzichten.
 
 ## Wie ist es soweit gekommen?
 
@@ -32,7 +36,8 @@ zu erreichen. Ausserdem hat der Kanton Zürich interdisziplinäres
 Arbeiten als das Unterrichten durch zwei Lehrpersonen mit einer
 Lehrberechtigung in zwei verschiedenen Fächern definiert. Das bedeutet,
 dass das bisherige Schwerpunktfach Wirtschaft und Recht in seiner
-aktuellen Form nicht mehr angeboten werden darf. Dies obwohl
+aktuellen Form den Ansprüchen nicht mehr genügt und nicht mehr angeboten
+werden darf. Dies obwohl 
 Wirtschaft und Recht unter der alten MAV das einzige interdisziplinäre
 Schwerpunktfach war.
 
@@ -40,22 +45,22 @@ Schwerpunktfach war.
 
 Die Revision der MAV schafft ein zwingendes Grundlagenfach Wirtschaft
 und Recht. Alle Gymnasiastinnen und Gymnasiasten müssen dieses Fach im
-Umfang von vier Jahreslektionen besuchen. Das ist ein wichtiger Beitrag
+Umfang von vier Jahreslektionen besuchen[^1]. Das ist ein wichtiger Beitrag
 zur Allgemeinbildung und zu begrüssen. Allerdings ist festzuhalten, dass
 mit dieser Stundendotation bestenfalls an der Oberfläche gekratzt
 werden kann. Der Status als Grundlagenfach bedeutet lediglich, dass das
 Fach eine Maturnote erhält. Es hat aber niemals die gleiche Bedeutung
 wie beispielsweise die Fächer Mathematik oder Deutsch.
 
-Wer sich etwas vertiefter mit Wirtschaft und Recht
+Wer sich vertiefter mit Wirtschaft und Recht
 auseinandersetzen möchte, braucht ein Schwerpunktfach Wirtschaft und
 Recht.
 
 ## Auswirkungen auf die Schullandschaft
 
 Für die kleinen spezialisierten Gymnasien, wie zum Beispiel die Kantonsschule Büelrain in
-Winterthur und die Kantonsschule Hottingen in Zürich, bedeutet dies den
-Verlust ihrer Identität. 
+Winterthur oder die Kantonsschule Hottingen in Zürich, bedeutet dies den
+Verlust ihrer Identität und allenfalls ihrer Eigenständigkeit. 
 
 Wir fordern daher die Beibehaltung des Schwerpunktfachs Wirtschaft und Recht in seiner
 aktuellen Form.
@@ -64,7 +69,11 @@ aktuellen Form.
 
 * [Ausgangslage auf Stufe Bund](https://www.edk.ch/de/die-edk/news/20240731)
 * [Umsetzungsprojekt der Vorgaben des Bundes im Kanton Zürich](https://www.zh.ch/de/bildung/schulen/maturitaetsschule/projekte-maturitaetsschulen/gemeinsam-die-zukunft-der-gymnasien-gestalten.html)
-* [Antrag der Bildungsdirektion an den Bildungsrat zur grundsätzlichen Stossrichtung dabei](https://www.zh.ch/de/bildungsdirektion/generalsekretariat-der-bildungsdirektion/bildungsrat/suche-bildungsratsbeschluesse/2024-brb-05.html)
-* [Beurteilung in ‘Die Volkswirtschaft’, dass die Vermittlung von echten Grundlagen und Kompetenzen in Wirtschaft und Recht eine ausreichende Stundenzahl voraussetzen](https://dievolkswirtschaft.ch/de/2025/06/wirtschaft-und-recht-als-maturitaetsfach-fuer-alle/)
-* [Zürcher Handelskammer begrüsst die Aufwertung von Wirtschaft und Recht zum Grundlagenfach, verkennt aber offensichtlich die massiven Abbau-Pläne im Schwerpunktfachsbereich](https://www.zhk.ch/de/wirtschaft-und-politik/abstimmungen/revision-der-maturitaets-anerkennungsverordnung-richtige-stossrichtung-mutlose-umsetzung.html?utm_source=chatgpt.com)
+* [Antrag der Bildungsdirektion an den Bildungsrat](https://www.zh.ch/de/bildungsdirektion/generalsekretariat-der-bildungsdirektion/bildungsrat/suche-bildungsratsbeschluesse/2024-brb-05.html)
+* [‘Die Volkswirtschaft’ zur Stundendotation im Fach Wirtschaft und Recht](https://dievolkswirtschaft.ch/de/2025/06/wirtschaft-und-recht-als-maturitaetsfach-fuer-alle/)
+* [Zürcher Handelskammer zur Aufwertung von Wirtschaft und Recht zum Grundlagenfach](https://www.zhk.ch/de/wirtschaft-und-politik/abstimmungen/revision-der-maturitaets-anerkennungsverordnung-richtige-stossrichtung-mutlose-umsetzung.html?utm_source=chatgpt.com)
 * [Tagesanzeiger - Der Kanton ändert die Schwerpunktfächer an den Gymnasien radikal](https://www.tagesanzeiger.ch/gymnasium-zuerich-das-sind-die-zwoelf-neuen-schwerpunktfaecher-412150645711?utm_source=chatgpt.com)
+
+[^1]: Vier Jahreslektionen bedeutet, dass beispielsweise entweder
+    während vier Jahren wöchentlich eine Lektion oder während
+    zwei Jahren wöchentlich zwei Lektionen stattfinden.
