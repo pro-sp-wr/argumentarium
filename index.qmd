@@ -65,11 +65,12 @@ aktuellen Form.
 
 ## Weiterführende Links
 
-* [Ausgangslage auf Stufe Bund](https://www.edk.ch/de/die-edk/news/20240731)
-* [Umsetzungsprojekt der Vorgaben des Bundes im Kanton Zürich](https://www.zh.ch/de/bildung/schulen/maturitaetsschule/projekte-maturitaetsschulen/gemeinsam-die-zukunft-der-gymnasien-gestalten.html)
-* [Antrag der Bildungsdirektion an den Bildungsrat](https://www.zh.ch/de/bildungsdirektion/generalsekretariat-der-bildungsdirektion/bildungsrat/suche-bildungsratsbeschluesse/2024-brb-05.html)
-* [‘Die Volkswirtschaft’ zur Stundendotation im Fach Wirtschaft und Recht](https://dievolkswirtschaft.ch/de/2025/06/wirtschaft-und-recht-als-maturitaetsfach-fuer-alle/)
-* [Tagesanzeiger - Der Kanton ändert die Schwerpunktfächer an den Gymnasien radikal](https://www.tagesanzeiger.ch/gymnasium-zuerich-das-sind-die-zwoelf-neuen-schwerpunktfaecher-412150645711?utm_source=chatgpt.com)
+* <a href="https://www.edk.ch/de/die-edk/news/20240731"  target="_blank">Ausgangslage auf Stufe Bund</a> []()
+* <a href="https://www.zh.ch/de/bildung/schulen/maturitaetsschule/projekte-maturitaetsschulen/gemeinsam-die-zukunft-der-gymnasien-gestalten.html"  target="_blank">Umsetzungsprojekt der Vorgaben des Bundes im Kanton Zürich</a>
+* <a href="https://www.zh.ch/de/bildungsdirektion/generalsekretariat-der-bildungsdirektion/bildungsrat/suche-bildungsratsbeschluesse/2024-brb-05.html"  target="_blank">Antrag der Bildungsdirektion an den Bildungsrat</a>
+* <a href="https://dievolkswirtschaft.ch/de/2025/06/wirtschaft-und-recht-als-maturitaetsfach-fuer-alle/#:~:text=Ausreichende%20Stundenzahl%20wichtig,erhalten%20bleiben%20sollte."  target="_blank">"Die Volkswirtschaft" zur Stundendotation im Fach Wirtschaft und Recht</a>
+* <a href="https://www.tagesanzeiger.ch/gymnasium-zuerich-das-sind-die-zwoelf-neuen-schwerpunktfaecher-412150645711?utm_source=chatgpt.com"  target="_blank">Tagesanzeiger - Der Kanton ändert die Schwerpunktfächer an den Gymnasien radikal</a>
+
 
 ## Ich unterstützte den Erhalt des Schwerpunktfachs Wirtschaft und Recht
 
