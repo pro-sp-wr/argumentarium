@@ -6,6 +6,8 @@ website:
   title: "Argumentarium"
   navbar:
     left:
+      - text: "Startseite"
+        href: index.qmd
       - text: "Weitere Informationen"
         menu:
           - text: "Über uns"
@@ -16,9 +18,7 @@ website:
             href: "https://forms.gle/Xa843z8yKTtiy4eB8"
           - text: "Unterstützen"
             href: "https://forms.gle/Qii7X7os3id8N1qK8"
-      - text: "Ausgangslage"
-        href: index.qmd
-        
+              
     right:
       - icon: "bi-twitter-x" # Oder ein anderes passendes Icon aus Bootstrap Icons
         href: "javascript:window.open('https://twitter.com/intent/tweet?text=Interessante%20Informationen%20von%20der%20IG%20Wirtschaft%20und%20Recht&url=' + encodeURIComponent(window.location.href));"
