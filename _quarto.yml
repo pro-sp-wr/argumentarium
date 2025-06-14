@@ -8,12 +8,12 @@ website:
     left:
       - text: "Startseite"
         href: index.qmd
+      - text: "Ausführliches Argumentarium"
+        href: ./argumente.qmd
       - text: "Weitere Informationen"
         menu:
           - text: "Über uns"
             href: about.qmd
-          - text: "Vollständiges Argumentarium"
-            href: ./argumente.qmd
           - text: "Kontakt"
             href: "https://forms.gle/Xa843z8yKTtiy4eB8"
           - text: "Unterstützen"
@@ -26,9 +26,6 @@ website:
       - icon: "bi-linkedin" # Bootstrap Icon für LinkedIn
         href: "https://www.linkedin.com/shareArticle?mini=true&url=https://pro-sp-wr.github.io/argumentarium/&title=Argumentarium%20IG%20Wirtschaft%20und%20Recht"
         aria-label: "Auf LinkedIn teilen" # Für Barrierefreiheit   
-      - icon: "bi-whatsapp" # Bootstrap Icon für WhatsApp
-        href: "javascript:window.open('https://wa.me/?text=' + encodeURIComponent('Interessante Informationen von der IG Wirtschaft und Recht: ' + window.location.href));"
-        aria-label: "Auf WhatsApp teilen"   
       - icon: "bi-facebook" # Bootstrap Icon für Facebook
         href: "javascript:window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href));"
         aria-label: "Auf Facebook teilen"
