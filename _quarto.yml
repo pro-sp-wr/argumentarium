@@ -10,14 +10,10 @@ website:
         href: index.qmd
       - text: "Ausführliches Argumentarium"
         href: ./argumente.qmd
-      - text: "Weitere Informationen"
-        menu:
-          - text: "Über uns"
-            href: about.qmd
-          - text: "Kontakt"
-            href: "https://forms.gle/Xa843z8yKTtiy4eB8"
-          - text: "Unterstützen"
-            href: "https://forms.gle/Qii7X7os3id8N1qK8"
+      - text: "Über uns"
+        href: about.qmd
+      - text: "Kontakt"
+        href: "https://forms.gle/Xa843z8yKTtiy4eB8"
               
     right:
       - icon: "bi-twitter-x" # Oder ein anderes passendes Icon aus Bootstrap Icons
